@@ -1,2 +1,2 @@
 # Description of repository 
-# Web Site Testing
+# Web Site Tester
